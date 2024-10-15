@@ -1,0 +1,41 @@
+html {
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100
+}
+header {
+  text-align: center;
+  color: #F0011E;
+  font-size: 25px;
+}
+#ola {
+  color:#0091FF;
+  font-size: 18px;
+}
+#ip {
+color: white
+}
+#il {
+  color: white
+}
+ul {
+  color:white
+}
+q {
+  color: white
+}
+a { 
+  color: red;
+  font-size: 20px;
+}
+
+body {
+  background-color:#000000
+}
+  
+
+  height: 100%;
+  width: 100%;
